@@ -11,3 +11,4 @@ public class p {
         System.out.println(text + " является полиндромом");
     }
 }
+//
